@@ -1,0 +1,76 @@
+{
+    "users": [
+        {
+            "fullName": "Jermaine Cole",
+            "age": 64,
+            "gender": "Male",
+            "occupation": "Accountant",
+            "location": "Himmel",
+            "description": "Jermaine Cole is a traditional book-worm and has always been from a young age. She is a housekeeper mom with two kids and she has a lot of time to read and relax.",
+            "traits": ["Forgetful", "Calm", "Generous", "Cool", "Amazing"],
+            "profilePic": "image1.jpg",
+            "joinDate": "2021-01-15"
+        }, {
+            "fullName": "Nidesh Cole",
+            "age": 64,
+            "gender": "Male",
+            "occupation": "Accountant",
+            "location": "Himmel",
+            "description": "Jermaine Cole is a traditional book-worm and has always been from a young age. She is a housekeeper mom with two kids and she has a lot of time to read and relax.",
+            "traits": ["Forgetful", "Calm", "Generous", "Cool", "Amazing"],
+            "profilePic": "image1.jpg",
+            "joinDate": "2021-01-16"
+        }, {
+            "fullName": "Sudarsh Cole",
+            "age": 64,
+            "gender": "Male",
+            "occupation": "Accountant",
+            "location": "Himmel",
+            "description": "Jermaine Cole is a traditional book-worm and has always been from a young age. She is a housekeeper mom with two kids and she has a lot of time to read and relax.",
+            "traits": ["Forgetful", "Calm", "Generous", "Cool", "Amazing"],
+            "profilePic": "image1.jpg",
+            "joinDate": "2021-01-17"
+        }, {
+            "fullName": "Shameem Cole",
+            "age": 64,
+            "gender": "Male",
+            "occupation": "Accountant",
+            "location": "Himmel",
+            "description": "Jermaine Cole is a traditional book-worm and has always been from a young age. She is a housekeeper mom with two kids and she has a lot of time to read and relax.",
+            "traits": ["Forgetful", "Calm", "Generous", "Cool", "Amazing"],
+            "profilePic": "image1.jpg",
+            "joinDate": "2021-01-18"
+        }, {
+            "fullName": "BP Cole",
+            "age": 64,
+            "gender": "Male",
+            "occupation": "Accountant",
+            "location": "Himmel",
+            "description": "Jermaine Cole is a traditional book-worm and has always been from a young age. She is a housekeeper mom with two kids and she has a lot of time to read and relax.",
+            "traits": ["Forgetful", "Calm", "Generous", "Cool", "Amazing"],
+            "profilePic": "image1.jpg",
+            "joinDate": "2021-01-18"
+        }, {
+            "fullName": "Athul Cole",
+            "age": 64,
+            "gender": "Male",
+            "occupation": "Accountant",
+            "location": "Himmel",
+            "description": "Jermaine Cole is a traditional book-worm and has always been from a young age. She is a housekeeper mom with two kids and she has a lot of time to read and relax.",
+            "traits": ["Forgetful", "Calm", "Generous", "Cool", "Amazing"],
+            "profilePic": "image1.jpg",
+            "joinDate": "2021-01-19"
+        }, {
+            "fullName": "Abhiram Cole",
+            "age": 64,
+            "gender": "Male",
+            "occupation": "Accountant",
+            "location": "Himmel",
+            "description": "Jermaine Cole is a traditional book-worm and has always been from a young age. She is a housekeeper mom with two kids and she has a lot of time to read and relax.",
+            "traits": ["Forgetful", "Calm", "Generous", "Cool", "Amazing"],
+            "profilePic": "image1.jpg",
+            "joinDate": "2021-01-10"
+        }
+        
+    ]
+}
